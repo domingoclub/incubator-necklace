@@ -6,4 +6,4 @@ This repository contains the source file of the petri dish holder of our Incubat
 ![](body-incub03.JPG)
 ![](body-incub04.JPG)
 
-Domingo Club → domingoclub.com & instagram.com/domingoclub
+Domingo Club → [domingoclub.com](domingoclub.com) & [instagram.com/domingoclub](https://instagram.com/domingoclub)
